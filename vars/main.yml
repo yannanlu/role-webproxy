@@ -1,0 +1,4 @@
+---
+
+nginx_locations: "{{webproxy_locations}}"
+nginx_redirect_locations: "{{webproxy_redirect_locations}}"

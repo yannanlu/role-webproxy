@@ -1,2 +1,2 @@
 # role-webproxy
-Ansible role for webproxy
+Ansible role for web proxy with Nginx
